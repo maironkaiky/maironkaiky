@@ -1,4 +1,4 @@
-### Boas vindas ao meu perfil 🖤
+### Boas vindos ao meu perfil 🖤
 Meu nome e Mairon Kaiky
 - Estou estuando na Alura
 - Estou me desenvolvendo na linguagem JavaScript
